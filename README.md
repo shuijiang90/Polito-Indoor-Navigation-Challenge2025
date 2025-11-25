@@ -4,6 +4,9 @@
 The project was developed as part of **Challenge@PoliTO 2025** by Team 2 (InMaps).  
 It addresses major issues of the existing PoliTO Map and provides a smart routing experience with cross-floor, multi-building mobility support.
 
+**Next Step:** Matterport / accessibility / emergency evacuation route 
+
+
 ##  Demo
 [Indoor Navigation video](https://www.canva.com/design/DAG5vGcVMIM/7cJOZ2pI_dxs6kIERYo7iQ/edit?utm_content=DAG5vGcVMIM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
